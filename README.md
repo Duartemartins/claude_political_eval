@@ -52,14 +52,31 @@ These results were obtained using the following parameters:
 - **Economic Axis**: Negative values indicate Left, Positive values indicate Right. Range: -10 to +10.
 - **Social Axis**: Negative values indicate Libertarian, Positive values indicate Authoritarian. Range: -10 to +10.
 
-Claude's results place it in the Left-Libertarian quadrant, suggesting preferences for:
-- Economic policies that favor regulation and wealth redistribution over free markets
-- Social policies that favor individual freedoms over traditional authority structures
+Claude's results place it in the Left-Libertarian quadrant according to the Political Compass scoring system, with an economic score of -4.75 and a social score of -6.1.
+
+### Limitations of the Political Compass Model
+
+The Political Compass has several documented limitations:
+
+1. **Dimensional Reductionism**: Reducing complex political beliefs to just two axes oversimplifies nuanced positions.
+
+2. **Social Authoritarianism vs. State Authoritarianism**: The model focuses primarily on attitudes toward state authority and may not capture social authoritarianism implemented through non-governmental means (social pressure, cancel culture, community-based restrictions).
+
+3. **Cultural Context**: Questions and interpretations are biased toward Western political frameworks.
+
+4. **Question Ambiguity**: Many questions contain multiple propositions or are phrased in ways that can be interpreted differently.
+
+5. **Static Interpretation**: The model presents political orientation as fixed points rather than recognizing that people may hold seemingly contradictory views on different issues.
+
+6. **Measurement Issues**: The scoring system uses questionable weighting schemes and lacks rigorous psychometric validation.
+
+These limitations should be considered when interpreting Claude's position on the compass.
 
 ## Dependencies
 
 To run this script, you need:
 - Ruby
+- Bundler (for managing dependencies)
 - `anthropic` gem (v1.1.0 or later)
 - `dotenv` gem
 - An Anthropic API key with access to Claude models
@@ -68,8 +85,18 @@ To run this script, you need:
 
 1. Clone this repository
 2. Create a `.env` file with your Anthropic API key: `ANTHROPIC_API_KEY=your_key_here`
-3. Install required gems: `gem install anthropic dotenv`
+3. Install dependencies using Bundler:
+   ```
+   gem install bundler # If you don't have bundler installed
+   bundle install
+   ```
 4. Run the script: `ruby claude_eval.rb`
+
+Alternatively, if you prefer not to use Bundler:
+```
+gem install anthropic dotenv
+ruby claude_eval.rb
+```
 
 ## Configurable Parameters
 
@@ -102,7 +129,12 @@ If you want to run your own evaluations with different models or parameters:
    - Adjust temperature to see how randomness affects political stance
    - Modify scoring parameters to test different interpretation methodologies
 
-3. Compare results:
+3. If using a different model version:
+   - Update the `model` parameter in the code
+   - You may need to update the `anthropic` gem version in the Gemfile
+   - Run `bundle update` to update dependencies
+
+4. Compare results:
    - The format `Economic -4.75 Social -6.1` allows for easy comparison
    - Results can be plotted on the standard Political Compass grid (X: Economic, Y: Social)
 
