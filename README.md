@@ -140,8 +140,8 @@ If you want to run your own evaluations with different models or parameters:
 
 4. Cite this project:
    ```
-   Author. (2025). Claude Political Compass Evaluation. 
-   GitHub Repository: https://github.com/yourusername/claudeeval
+   Martins, Duarte. (2025). Claude Political Compass Evaluation. 
+   GitHub Repository: https://github.com/duartemartins/claudeeval
    ```
 
 ## Acknowledgments
