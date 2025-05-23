@@ -1,0 +1,63 @@
+Question Number,Question Text,Econ_StrongDisagree,Econ_Disagree,Econ_Agree,Econ_StrongAgree,Social_StrongDisagree,Social_Disagree,Social_Agree,Social_StrongAgree
+1,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",7,5,0,-2,0,0,0,0
+2,"I'd always support my country, whether it was right or wrong.",0,0,0,0,-8,-6,0,2
+3,"No one chooses their country of birth, so it's foolish to be proud of it.",0,0,0,0,7,5,0,-2
+4,"Our race has many superior qualities, compared with other races.",0,0,0,0,-7,-5,0,2
+5,"The enemy of my enemy is my friend.",0,0,0,0,-7,-5,0,2
+6,"Military action that defies international law is sometimes justified.",0,0,0,0,-6,-4,0,2
+7,"There is now a worrying fusion of information and entertainment.",0,0,0,0,7,5,0,-2
+8,"People are ultimately divided more by class than by nationality.",7,5,0,-2,0,0,0,0
+9,"Controlling inflation is more important than controlling unemployment.",-7,-5,0,2,0,0,0,0
+10,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",6,4,0,-2,0,0,0,0
+11,"""from each according to his ability, to each according to his need"" is a fundamentally good idea.",7,5,0,-2,0,0,0,0
+12,"The freer the market, the freer the people.",-8,-6,0,2,0,0,0,0
+13,"It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",8,6,0,-2,0,0,0,0
+14,"Land shouldn't be a commodity to be bought and sold.",8,6,0,-1,0,0,0,0
+15,"It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.",7,5,0,-3,0,0,0,0
+16,"Protectionism is sometimes necessary in trade.",8,6,0,-1,0,0,0,0
+17,"The only social responsibility of a company should be to deliver a profit to its shareholders.",-7,-5,0,2,0,0,0,0
+18,"The rich are too highly taxed.",-7,-5,0,1,0,0,0,0
+19,"Those with the ability to pay should have access to higher standards of medical care.",-6,-4,0,2,0,0,0,0
+20,"Governments should penalise businesses that mislead the public.",6,4,0,-1,0,0,0,0
+21,"A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.",0,0,0,0,0,0,0,0
+22,"Abortion, when the woman's life is not threatened, should always be illegal.",0,0,0,0,-6,-4,0,2
+23,"All authority should be questioned.",0,0,0,0,7,6,0,-2
+24,"An eye for an eye and a tooth for a tooth.",0,0,0,0,-5,-4,0,2
+25,"Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.",-8,-6,0,1,0,0,0,0
+26,"Schools should not make classroom attendance compulsory.",0,0,0,0,8,4,0,-2
+27,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",0,0,0,0,-7,-5,0,2
+28,"Good parents sometimes have to spank their children.",0,0,0,0,-7,-5,0,3
+29,"It's natural for children to keep some secrets from their parents.",0,0,0,0,6,4,0,-3
+30,"Possessing marijuana for personal use should not be a criminal offence.",0,0,0,0,6,3,0,-2
+31,"The prime function of schooling should be to equip the future generation to find jobs.",0,0,0,0,-7,-5,0,3
+32,"People with serious inheritable disabilities should not be allowed to reproduce.",0,0,0,0,-9,-7,0,2
+33,"The most important thing for children to learn is to accept discipline.",0,0,0,0,-8,-6,0,2
+34,"There are no savage and civilised peoples; there are only different cultures.",0,0,0,0,7,6,0,-2
+35,"Those who are able to work, and refuse the opportunity, should not expect society's support.",0,0,0,0,-7,-5,0,2
+36,"When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.",0,0,0,0,-6,-4,0,2
+37,"First-generation immigrants can never be fully integrated within their new country.",0,0,0,0,-7,-4,0,2
+38,"What's good for the most successful corporations is always, ultimately, good for all of us.",-10,-8,0,1,0,0,0,0
+39,"No broadcasting institution, however independent its content, should receive public funding.",-5,-4,0,1,0,0,0,0
+40,"Our civil liberties are being excessively curbed in the name of counter-terrorism.",0,0,0,0,7,5,0,-3
+41,"A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.",0,0,0,0,-9,-6,0,2
+42,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",0,0,0,0,-8,-6,0,2
+43,"The death penalty should be an option for the most serious crimes.",0,0,0,0,-8,-6,0,2
+44,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",0,0,0,0,-6,-4,0,2
+45,"Abstract art that doesn't represent anything shouldn't be considered art at all.",0,0,0,0,-8,-6,0,2
+46,"In criminal justice, punishment should be more important than rehabilitation.",0,0,0,0,-7,-5,0,2
+47,"It is a waste of time to try to rehabilitate some criminals.",0,0,0,0,-8,-6,0,2
+48,"The businessperson and the manufacturer are more important than the writer and the artist.",0,0,0,0,-5,-3,0,2
+49,"Mothers may have careers, but their first duty is to be homemakers.",0,0,0,0,-7,-5,0,2
+50,"Almost all politicians promise economic growth, but we should heed the warnings of climate science that growth is detrimental to our efforts to curb global warming.",0,0,0,0,7,5,0,-2
+51,"Making peace with the establishment is an important aspect of maturity.",0,0,0,0,-6,-4,0,2
+52,"Astrology accurately explains many things.",0,0,0,0,-7,-5,0,2
+53,"You cannot be moral without being religious.",0,0,0,0,-6,-4,0,2
+54,"Charity is better than social security as a means of helping the genuinely disadvantaged.",-9,-8,0,1,0,0,0,0
+55,"Some people are naturally unlucky.",0,0,0,0,-7,-5,0,2
+56,"It is important that my child's school instills religious values.",0,0,0,0,-6,-4,0,2
+57,"Sex outside marriage is usually immoral.",0,0,0,0,-7,-6,0,2
+58,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",0,0,0,0,7,6,0,-2
+59,"Pornography, depicting consenting adults, should be legal for the adult population.",0,0,0,0,7,5,0,-2
+60,"What goes on in a private bedroom between consenting adults is no business of the state.",0,0,0,0,8,6,0,-2
+61,"No one can feel naturally homosexual.",0,0,0,0,-8,-6,0,2
+62,"These days openness about sex has gone too far.",0,0,0,0,-6,-4,0,2
